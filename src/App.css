@@ -1,0 +1,8 @@
+.rotate{
+  transform: rotate(180deg);
+  display: inline-block;
+  
+}
+body{
+  margin: 0 6px;
+}
